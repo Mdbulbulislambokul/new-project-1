@@ -1,0 +1,147 @@
+header{
+    
+    background-image: url(./B10A1-Challenge-Begins/assets/Hero-bg.png);
+
+}
+.scroll-btn, .scroll-ancor{
+    background-color: black;
+    color: white;
+    padding: 7px;
+    border-radius: 10px;
+    text-align: center;
+}
+.header-section{
+    display: flex;
+    justify-content: center;
+    gap: 750px;
+}
+.button-a{
+    /* background:#FFF ; */
+    color:#0D1321 ;
+    border-radius: 5px;
+    margin-top: 18px;
+    background-color: #FFF;
+}
+.header-contianer{
+   text-align: center;
+}
+.button-c{
+    background: #0D1321;
+    color: #FFF;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.main-section{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+}
+.section-main{
+    box-shadow: 0 0  5px rgba(0, 0, 0, 0.1);
+    
+    border-radius: 16px;
+    margin-bottom: 32px;
+   margin-top: 10px;
+    background: rgba(13, 19, 33, 0.02);
+}
+.card-new{
+    display: flex;
+    /* justify-content: space-around; */
+    justify-content: center;
+    gap: 96px;
+    box-shadow: 0 0  5px rgba(0, 0, 0, 0.1);
+    margin: 0px 310px;
+    border-radius: 16px;
+    margin-bottom: 32px;
+}
+.my-card{
+    display: flex;
+    /* justify-content: space-around; */
+    justify-content: center;
+    gap: 96px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin: 0px 310px;
+    border-radius: 16px;
+    margin-bottom: 32px;
+}
+.my-new-card{
+    display: flex;
+    
+    justify-content: center;
+    gap: 96px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin: 0px 310px;
+    border-radius: 16px;
+    margin-bottom: 32px;
+}
+
+
+.section-1{
+    text-align: center;
+    margin-top: 90px;
+}
+.section-2{
+    text-align: center;
+    margin-top: 50px;
+    /* border: #ffffff; */
+}
+
+.section-3{
+    text-align: center;
+    margin-top: 100px;
+}
+.parent{
+display: flex;
+padding: 50px;
+justify-content: center;
+margin-left: 100px;
+}
+.card-4{
+    background: #FFF;
+    padding: 30px 0px 20px 10px;
+    margin: 5px 90px 50px 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background: rgba(255, 76, 30, 0.05);
+}
+.card-5{
+    background: #FFF;
+    padding: 30px 0px 20px 10px;
+    margin: 5px 90px 50px 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background: rgba(0, 76, 232, 0.05);
+
+}
+.card-6{
+    background: #FFF;
+    padding: 30px 0px 20px 10px;
+    margin: 5px 90px 50px 30px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background: rgba(255, 223, 0, 0.05);
+}
+footer{
+    background-image: url(./B10A1-Challenge-Begins/assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 16px;
+    margin: 0px 140px 0px 180px;
+}
+.footer-1{
+    color: #FFF;
+    text-align: center;
+}
+.footer-main-1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background: rgba(13, 19, 33, 0.03);
+
+}
